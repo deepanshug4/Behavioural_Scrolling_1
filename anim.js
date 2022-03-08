@@ -25,7 +25,6 @@ const scene = new ScrollMagic.Scene({
 })
 .setPin(".sticky")
 .setTween(tl)
-.addIndicators()
 .addTo(controller);
 
 
